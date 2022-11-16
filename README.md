@@ -1,7 +1,7 @@
 # Strong password database generator created by christian otoo for your free use!
 Written in python3
 
-What strgPassGen.py does
+What passwordDbGen does
 ##Its create passwords of any length and quantity you specify
 
 
