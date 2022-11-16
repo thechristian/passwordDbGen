@@ -33,7 +33,7 @@ def passGen(passLength, quantity):
         counter += 1
 
     # create password file name using password lenght and quantity
-    fileName = str(quantity)+"of"+str(passLength)+".txt"
+    fileName = str(quantity)+"-of-"+str(passLength)+".txt"
 
     # saving all generated passwords into the file
     for i in passList:
